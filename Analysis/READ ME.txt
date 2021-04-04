@@ -1,5 +1,6 @@
-I could not get the average change to work. I tried a handful of different approaches and tried working with two different Ask BCS helpers. 
-The issue has to do with the first line of data. 
+It took a lot of work to get the average change component. I tried a handful of different approaches and tried working with two different Ask BCS helpers with no real solutions given.
+
 
 I have spent way too much time on this and from all the googling I've done, all the suggestions point to pandas which we can't use on this exercise. 
-So for purposes of practicality, I'll take the lost points and keep my sanity knowing that most real world application will be done with Pandas
+So while I think I ultimately got to the solution, it was not easy and feel the classwork/exercises did not adequately teach the necessary techniques needed for this assignment.
+Its one thing to be challenged, its another to throw someone in a lake with thier hands tied and tell them to swim while saying don't forget to kick.

@@ -1,1 +1,3 @@
-The total profit over the aggregate period of 86 months was 38382578, with an average profit of 446309and average change of 7803.The greatest increase in profits occured in 12-Feb (1926159).The greatest decrease in profits occured in 13-Sep (-2196167.)
+The total profit over the aggregate period of 86 months was 38382578, with an average profit of 446309and average change of -2315.
+The greatest increase in profits occured in 12-Feb (1926159).
+The greatest decrease in profits occured in 13-Sep (-2196167.)
