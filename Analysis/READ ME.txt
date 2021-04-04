@@ -1,0 +1,5 @@
+I could not get the average change to work. I tried a handful of different approaches and tried working with two different Ask BCS helpers. 
+The issue has to do with the first line of data. 
+
+I have spent way too much time on this and from all the googling I've done, all the suggestions point to pandas which we can't use on this exercise. 
+So for purposes of practicality, I'll take the lost points and keep my sanity knowing that most real world application will be done with Pandas
